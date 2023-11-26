@@ -16,7 +16,9 @@ jobs:
       - name: Download artifact from previous step
         uses: actions/download-artifact@v3
         with:
-          output_file_path = '/tmp/pack.zip'
+          options: |
+            pack_directory = '.'
+            output_file_path = '/tmp/pack.zip'
       - shell: bash
         run: |
           sha1sum /tmp/pack.zip
