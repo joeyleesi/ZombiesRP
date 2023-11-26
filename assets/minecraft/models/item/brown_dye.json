@@ -1,0 +1,110 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/brown_dye"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1000
+      },
+      "model": "item/custom/plushies/freddy_plushie"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1001
+      },
+      "model": "item/custom/plushies/bonnie_plushie"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1002
+      },
+      "model": "item/custom/plushies/chica_plushie"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1003
+      },
+      "model": "item/custom/plushies/foxy_plushie"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1004
+      },
+      "model": "item/custom/plushies/cupcake_plushie"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1005
+      },
+      "model": "item/custom/plushies/doctor_plushie"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1006
+      },
+      "model": "item/custom/naughty/security_badge"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1007
+      },
+      "model": "item/custom/hats/freddy_headband"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1008
+      },
+      "model": "item/custom/hats/bonnie_headband"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1009
+      },
+      "model": "item/custom/hats/chica_headband"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1010
+      },
+      "model": "item/custom/plushies/dragon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1011
+      },
+      "model": "item/custom/plushies/teddy"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1012
+      },
+      "model": "item/custom/hats/cowboy_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1013
+      },
+      "model": "item/custom/hats/mymelody"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1014
+      },
+      "model": "item/custom/hats/bombom_headband"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1016
+      },
+      "model": "item/custom/goodies/partybanner"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1017
+      },
+      "model": "item/custom/hats/cassidyhat"
+    }
+  ]
+}

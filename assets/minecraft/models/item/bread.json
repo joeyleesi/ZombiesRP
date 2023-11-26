@@ -1,0 +1,122 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/bread"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1000
+      },
+      "model": "item/custom/food/bread"
+	},
+    {
+      "predicate": {
+        "custom_model_data": 1001
+      },
+      "model": "item/custom/food/chocolatecupcake"
+	},
+    {
+      "predicate": {
+        "custom_model_data": 1002
+      },
+      "model": "item/custom/food/chocolatedonut"
+	},
+    {
+      "predicate": {
+        "custom_model_data": 1003
+      },
+      "model": "item/custom/food/cinnamonroll"
+	},
+    {
+      "predicate": {
+        "custom_model_data": 1004
+      },
+      "model": "item/custom/food/croissant"
+	},
+    {
+      "predicate": {
+        "custom_model_data": 1005
+      },
+      "model": "item/custom/food/eclair"
+	},
+    {
+      "predicate": {
+        "custom_model_data": 1006
+      },
+      "model": "item/custom/food/funfetticupcake"
+	},
+    {
+      "predicate": {
+        "custom_model_data": 1007
+      },
+      "model": "item/custom/food/glazeddonut"
+	},
+    {
+      "predicate": {
+        "custom_model_data": 1008
+      },
+      "model": "item/custom/food/lemoncupcake"
+	},
+    {
+      "predicate": {
+        "custom_model_data": 1009
+      },
+      "model": "item/custom/food/lavendercupcake"
+	},
+    {
+      "predicate": {
+        "custom_model_data": 1010
+      },
+      "model": "item/custom/food/macarons"
+	},
+    {
+      "predicate": {
+        "custom_model_data": 1011
+      },
+      "model": "item/custom/food/tiramisu"
+	},
+    {
+      "predicate": {
+        "custom_model_data": 1012
+      },
+      "model": "item/custom/food/vanillacupcake"
+	},
+    {
+      "predicate": {
+        "custom_model_data": 1013
+      },
+      "model": "item/custom/food/baguette"
+	},
+    {
+      "predicate": {
+        "custom_model_data": 1014
+      },
+      "model": "item/custom/food/beignet"
+	},
+    {
+      "predicate": {
+        "custom_model_data": 1015
+      },
+      "model": "item/custom/food/berrypie"
+	},
+    {
+      "predicate": {
+        "custom_model_data": 1016
+      },
+      "model": "item/custom/food/plateofcookies"
+	},
+    {
+      "predicate": {
+        "custom_model_data": 1017
+      },
+      "model": "item/custom/food/gingerbreadcookies"
+	},
+    {
+      "predicate": {
+        "custom_model_data": 1018
+      },
+      "model": "item/custom/food/pumpkinpie"
+	}
+  ]
+}

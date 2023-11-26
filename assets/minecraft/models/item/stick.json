@@ -1,0 +1,422 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/stick"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1000
+      },
+      "model": "item/custom/hats/bonnie_mask"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1001
+      },
+      "model": "item/custom/hats/freddy_mask"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1002
+      },
+      "model": "item/custom/hats/chica_mask"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1003
+      },
+      "model": "item/custom/hats/foxy_mask"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1004
+      },
+      "model": "item/custom/hats/carlcupcake"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1005
+      },
+      "model": "item/custom/plushies/microphone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1006
+      },
+      "model": "item/custom/hats/foxy_hook"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1007
+      },
+      "model": "item/custom/plushies/bonnie_guitar"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1008
+      },
+      "model": "item/custom/naughty/spanker"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1009
+      },
+      "model": "item/custom/naughty/tongue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1010
+      },
+      "model": "item/custom/naughty/vodka"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1011
+      },
+      "model": "item/custom/naughty/dinero"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1012
+      },
+      "model": "item/custom/hats/foxy_headband"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1013
+      },
+      "model": "item/custom/goodies/showtime_button"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1014
+      },
+      "model": "item/custom/goodies/freddy_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1015
+      },
+      "model": "item/custom/goodies/fnaf_balloons"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1016
+      },
+      "model": "item/custom/goodies/desk_chair"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1017
+      },
+      "model": "item/custom/goodies/confetti"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1018
+      },
+      "model": "item/custom/goodies/faz_chair"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1019
+      },
+      "model": "item/custom/goodies/arcade_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1020
+      },
+      "model": "item/custom/goodies/pinball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1021
+      },
+      "model": "item/custom/naughty/car"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1022
+      },
+      "model": "item/custom/goodies/arcade_red"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1023
+      },
+      "model": "item/custom/goodies/claw_machine"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1024
+      },
+      "model": "item/custom/goodies/table"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1025
+      },
+      "model": "item/custom/goodies/nebraska"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1026
+      },
+      "model": "item/custom/goodies/celebrate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1027
+      },
+      "model": "item/custom/hats/kerropi"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1028
+      },
+      "model": "item/custom/naughty/car_black"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1029
+      },
+      "model": "item/custom/goodies/rocking_chair_joey"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1030
+      },
+      "model": "item/custom/goodies/rocking_chair_austin"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1031
+      },
+      "model": "item/custom/goodies/fnaf_monitors"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1032
+      },
+      "model": "item/custom/goodies/stagelights"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1033
+      },
+      "model": "item/custom/goodies/chica_poster"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1034
+      },
+      "model": "item/custom/goodies/hanginglight"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1035
+      },
+      "model": "item/custom/goodies/bonnie_poster"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1036
+      },
+      "model": "item/custom/goodies/freddy_poster"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1037
+      },
+      "model": "item/custom/goodies/foxy_poster"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1038
+      },
+      "model": "item/custom/goodies/presents"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1039
+      },
+      "model": "item/custom/goodies/light"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1040
+      },
+      "model": "item/custom/goodies/telephone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1041
+      },
+      "model": "item/custom/goodies/flashlight"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1042
+      },
+      "model": "item/custom/goodies/freddybooth"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1043
+      },
+      "model": "item/custom/goodies/chicabooth"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1044
+      },
+      "model": "item/custom/goodies/bonniebooth"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1045
+      },
+      "model": "item/custom/goodies/foxybooth"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1046
+      },
+      "model": "item/custom/goodies/booth"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1047
+      },
+      "model": "item/custom/goodies/bonnie_arcade"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1048
+      },
+      "model": "item/custom/goodies/freddy_arcade"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1049
+      },
+      "model": "item/custom/goodies/chica_arcade"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1050
+      },
+      "model": "item/custom/goodies/foxy_arcade"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1051
+      },
+      "model": "item/custom/goodies/streamers"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1052
+      },
+      "model": "item/custom/goodies/balloons"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1053
+      },
+      "model": "item/custom/goodies/skee_ball_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1054
+      },
+      "model": "item/custom/goodies/skee_ball_red"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1055
+      },
+      "model": "item/custom/goodies/skee_ball_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1056
+      },
+      "model": "item/custom/goodies/skee_ball_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1057
+      },
+      "model": "item/custom/goodies/cash_register"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1058
+      },
+      "model": "item/custom/goodies/rectanglelight"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1059
+      },
+      "model": "item/custom/goodies/kitchenisland"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1060
+      },
+      "model": "item/custom/goodies/mercystaff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1061
+      },
+      "model": "item/custom/goodies/saddlesbakerysign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1062
+      },
+      "model": "item/custom/goodies/saddlesbakerysign2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1063
+      },
+      "model": "item/custom/goodies/closedsign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1064
+      },
+      "model": "item/custom/goodies/menusign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1065
+      },
+      "model": "item/custom/goodies/opensign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1066
+      },
+      "model": "item/custom/goodies/painting1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1067
+      },
+      "model": "item/custom/goodies/painting2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1068
+      },
+      "model": "item/custom/goodies/painting3"
+    }
+  ]
+}

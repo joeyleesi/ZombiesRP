@@ -1,0 +1,54 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "item/custom/food/cinnamonroll",
+		"particle": "item/custom/food/cinnamonroll"
+	},
+	"elements": [
+		{
+			"from": [6.4, 0, 6.4],
+			"to": [9.4, 1.6, 9.6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.4, 0, 6.4]},
+			"faces": {
+				"north": {"uv": [0, 12, 7.5, 16], "texture": "#0"},
+				"east": {"uv": [0, 8, 8, 12], "texture": "#0"},
+				"south": {"uv": [7.5, 12, 15, 16], "texture": "#0"},
+				"west": {"uv": [8, 8, 16, 12], "texture": "#0"},
+				"up": {"uv": [7.5, 8, 0, 0], "texture": "#0"},
+				"down": {"uv": [15, 0, 7.5, 8], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 7.75, 0]
+		},
+		"thirdperson_lefthand": {
+			"translation": [-0.25, 8, 0]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 9, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 8, 0]
+		},
+		"ground": {
+			"translation": [0, 4.75, 0]
+		},
+		"gui": {
+			"rotation": [20, 34, 0],
+			"translation": [0.5, 17.75, 0],
+			"scale": [2.64453, 2.64453, 2.64453]
+		},
+		"head": {
+			"translation": [0, 22.25, 0],
+			"scale": [2, 2, 2]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -24],
+			"scale": [3, 3, 3]
+		}
+	}
+}
