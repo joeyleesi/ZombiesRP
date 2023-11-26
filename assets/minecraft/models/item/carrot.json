@@ -9,24 +9,24 @@
         "custom_model_data": 1000
       },
       "model": "item/custom/food/pizzaslice"
-	},
+    },
     {
       "predicate": {
         "custom_model_data": 1001
       },
       "model": "item/custom/food/wings"
-	},
+    },
     {
       "predicate": {
         "custom_model_data": 1002
       },
       "model": "item/custom/food/foxy_fries"
-	},
+    },
     {
       "predicate": {
         "custom_model_data": 1003
       },
       "model": "item/custom/food/cola"
-	}
+    }
   ]
 }
