@@ -13,9 +13,6 @@ jobs:
         uses: ComunidadAylas/PackSquash-action@v4
         with:
           packsquash_version: latest
-      - name: Download artifact from previous step
-        uses: actions/download-artifact@v3
-        with:
           options: |
             pack_directory = '.'
             output_file_path = '/tmp/pack.zip'
