@@ -19,8 +19,3 @@ jobs:
       - shell: bash
         run: |
           sha1sum /tmp/pack.zip
-      - name: Tag and create release
-        uses: softprops/action-gh-release@v1
-        with:
-          tag_name: action-v${{ github.run_number }}
-          files: /tmp/pack.zip
